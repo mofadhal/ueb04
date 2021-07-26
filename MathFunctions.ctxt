@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MathFunctions
+comment0.text=\n\ eine\ class\ um\ die\ Teilsumme\ und\ ISBN\ zu\ brechnen\n\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ Alkhadraa)\n\ @version\ (08.12.2020)\n
+comment1.params=zahl
+comment1.target=long\ berechneTeilersumme(long)
+comment1.text=\n\ Vorschleife\ zur\ berechnung\ der\ Teilersumme\ mit\ mod\ 2\n\n\ @param\ zahl\ if\ Bedingung\ zur\ \u00DCberpr\u00FCfung\ der\ zahl\ ob\ sie\ eine\ Teilersummme\ ist\n\ @return\ summe\ Ausgabe\ der\ Summe\n
+comment2.params=isbn
+comment2.target=java.lang.String\ berechneChecksummeIsbn(long)
+comment2.text=\n\ Vorschleife\ zur\ berechnung\ der\ pruefziffer\ \n\n\ @param\ isbn\:\ isbn\ is\ eine\ 9\ stellige\ zahl\ und\ anhand\ diese\ zahl\ wird\ die\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ pruef\ ziffer\ wie\ in\ blatt\ beschreibung\ berechnet\n\ @return\ Die\ berechnete\ pr\u00FCfziffer\ als\ String\n
+comment3.params=p\ q
+comment3.target=java.lang.String\ berechneNullstellen(double,\ double)
+comment3.text=\n\ Method\ berechneNullstellen\n\n\ @param\ p\ A\ parameter\n\ @param\ q\ A\ parameter\n\ @return\ l\u00F6sung\n
+comment4.params=n
+comment4.target=boolean\ istSummeVonPotenzen(long)
+comment4.text=\n\ Method\ istSummeVonPotzenten\n\n\ @param\ n\ A\ parameter\n\ @return\ true,\ falls\ n\ \=\ a*a*a*a\ +\ b*b*b\ +\ c*c\n
+numComments=5

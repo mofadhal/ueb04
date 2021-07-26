@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MathFunctions
+comment0.text=\n\ Write\ a\ description\ of\ class\ MathFunctions\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=zahl
+comment1.target=long\ berechneTeilersumme(long)
+comment1.text=\n\ Vorschleife\ zur\ berechnung\ der\ Teilersumme\ mit\ mod\ 2\n\ @param\ i\n\ if\ Bedingung\ zur\ \u00DCberpr\u00FCfung\ der\ zahl\ ob\ sie\ eine\ Teilersummme\ ist\n\ @return\ summe\ Ausgabe\ der\ Summe\n
+comment2.params=isbn
+comment2.target=java.lang.String\ berechneChecksummeIsbn(long)
+numComments=3

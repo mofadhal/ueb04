@@ -1,0 +1,8 @@
+BERECHNE NULLSTELLEN:	
+1,5 UND 0,5 -> Doppelte Nullstelle....
+2,5 UND 1,3 -> Komplexe Nullstelle
+
+
+BERECHNE ISTSUMMEVONPOTENHZEN:
+6 -> true
+12 -> false
